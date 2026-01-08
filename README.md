@@ -1,5 +1,7 @@
 ## Hello World 💫
-Sou desenvolvedora Salesforce há 5 anos
+Sou desenvolvedora Salesforce com cerca de 5 anos de experiência, apaixonada por tecnologia e por novos aprendizados. Atuo com Apex, LWC, Flows, SOQL, bem como desenvolvimento low-code usando omnistudio, soluções de vendas com CPQ e OM e DevOps com auxílio do Copado e Git/Gitlab.
+
+Aqui no Github você encontra meus projetos, estudos e experimentos. 
 
 ## Minhas Skills 💻
 
